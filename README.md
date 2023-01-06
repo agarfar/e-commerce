@@ -27,7 +27,7 @@ Before running the application, make sure you have installed the 'express' ,  'm
 
 Log in to the MySQL shell using your user credentials. Then, run the provided schema file to create your database. In the default terminal, enter 'npm run seed' to prepopulate the database. Once the database is ready, run the command 'npm run start'. 
 
-Watch the video at the provided link to see an example of the application in use, or view below: 
+Watch the video at the provided link to see an example of the application in use, or view below: https://drive.google.com/file/d/1wvm-NbA5pT-MlPCiQVAZVERPEwY2ptCd/view
 
 
 
